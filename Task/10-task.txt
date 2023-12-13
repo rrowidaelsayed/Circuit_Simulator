@@ -3,3 +3,7 @@
 3- https://www.youtube.com/watch?v=4YolrVX6f1Q&list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&index=51
 
 Given list of numbers, print all it's elements.
+sol>>
+a=[2,7,3,8,1,9]
+for num in a:
+  print(num)
