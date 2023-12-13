@@ -1,1 +1,10 @@
 get the summation of all even numbers between a to b.
+sol>>>
+b=int(input())
+c=int(input())
+sum=0
+for n in range(b,c+1):
+ if n%2==0:
+   sum=sum+n
+print (sum)
+    
