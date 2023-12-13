@@ -9,3 +9,12 @@ a - b.
 a * b.
 a % b.
 a / b (two ways, int and double)
+sol >>
+a=1
+b=2
+print(a+b) 
+print(a-b)
+print(a*b)
+print(a%b)
+print(int(a/b)) #int
+print(float(a/b))#double
