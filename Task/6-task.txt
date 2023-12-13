@@ -1,1 +1,5 @@
 Given list of numbers, try to add an element n to the list.
+sol>>
+a=[1,2,3,4,5]
+c=a.append(int(input())) 
+print(a)
