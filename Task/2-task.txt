@@ -5,3 +5,16 @@
 5- https://www.youtube.com/watch?v=1E7z7r61b2s&list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&index=43
 
 -Given a and b, find the largest number.
+sol>>
+a=1
+b=2
+c=max(a,b)
+print (c)
+or ممكن علي حسب ال user مثلا 
+a=(input())
+b=(input())
+if a>b:
+    c=a
+else:
+    c=b
+print(c)
