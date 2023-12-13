@@ -1,1 +1,12 @@
 Given list of numbers, print all the elements that less than n.
+sol>>
+a=[2,5,3,8,0,1,4]
+for x in a:
+    if x<3:
+     print (x)
+
+a=[2,5,3,8,0,1,4]
+c=int(input())#from user
+for x in a:
+    if x<c:
+     print (x)
