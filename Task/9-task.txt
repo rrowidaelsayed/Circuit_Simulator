@@ -1,2 +1,10 @@
 Given list, find it's length.
 sort it then reverse.
+sol>>
+a=[2,7,3,8,1,9]
+c=len(a)
+print(c)
+a.sort()
+print(a)
+a.reverse()
+print(a)
