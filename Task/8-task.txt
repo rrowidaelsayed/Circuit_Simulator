@@ -1,1 +1,5 @@
 Given list, find it's length
+sol>>
+a=[1,2,3,4,5,7]
+c=len(a)
+print(c)
