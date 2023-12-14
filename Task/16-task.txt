@@ -6,3 +6,10 @@
 Write function that add 2 numbers with defult value of 0.
 
 def add(a=0, b=0):
+soll>>
+a=int(input())
+b=int(input())
+def e(n1=0,n2=0):
+   print(n1+n2)
+e(a,b)
+e(a) 
